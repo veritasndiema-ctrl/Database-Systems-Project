@@ -36,7 +36,7 @@ This system helps:
 
 
 
-# 🗂 Database Structure
+# Database Structure
 
 The project contains four main tables:
 
@@ -99,7 +99,7 @@ Foreign keys are used to maintain data integrity.
 
 
 
-# ▶️ How to Run the Project
+# How to Run the Project
 
 ## Step 1: Open MySQL
 
@@ -131,7 +131,7 @@ https://youtu.be/zRa5DmkMkw0?feature=shared
 
 
 
-# 📊 Sample Features
+# Sample Features
 
 * Customer registration
 * Account creation
@@ -141,7 +141,7 @@ https://youtu.be/zRa5DmkMkw0?feature=shared
 
 
 
-# 📁 Project Files
+# Project Files
 
 ```text
 Bank-Branch-Management-System/
@@ -154,7 +154,7 @@ Bank-Branch-Management-System/
 
 ---
 
-# ⚠️ Challenges Faced
+# Challenges Faced
 
 * Managing foreign key relationships
 * Understanding SQL JOIN operations
@@ -186,7 +186,7 @@ Possible future upgrades include:
 
 # Author
 
-Keith Ndiema
+Kissa Keith Ndiema
 Database Systems Project – 2026
 
 
