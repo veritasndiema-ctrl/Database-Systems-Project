@@ -124,6 +124,11 @@ The system will:
 * Insert sample data
 * Generate test records
 
+## Step 4: The explanation video
+
+To watch the video explaining the work, tap the YouTube link below
+https://youtu.be/zRa5DmkMkw0?feature=shared
+
 
 
 # 📊 Sample Features
